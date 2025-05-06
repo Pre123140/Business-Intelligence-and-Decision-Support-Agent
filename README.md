@@ -1,10 +1,10 @@
-# 🧠 AI-Powered Business Intelligence & Decision Support Agent
+# AI-Powered Business Intelligence & Decision Support Agent
 
 An interactive AI agent that helps users **analyze uploaded business data, generate insights, visualize trends, and support real-time decisions** — powered by `Mistral-7B`, LangChain, RAG (Retrieval Augmented Generation), and Streamlit. Users can upload CSVs and get instant responses from an LLM-powered chatbot trained on their data.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 To create a dataset-agnostic GenAI agent that:
 - Understands business data dynamically upon upload
 - Provides summary insights, trends, and patterns
@@ -13,7 +13,7 @@ To create a dataset-agnostic GenAI agent that:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **LLM-Powered Chatbot** – Interact directly with your uploaded CSV
 - **Insight Generator** – Get trends, summaries, stats in plain English
 - **Dynamic Charts** – Auto-generate visuals like bar, line, and pie charts
@@ -23,13 +23,13 @@ To create a dataset-agnostic GenAI agent that:
 
 ---
 
-## 🧠 Conceptual Study
+## Conceptual Study
 Want to explore how GenAI augments BI?
 👉 [Read the Full Conceptual Study →](https://github.com/Pre123140/Business-Intelligence-and-Decision-Support-Agent/blob/main/BUSINESS%20INTELLIGENCE%20AND%20DECISION%20SUPPORT%20AGENT%20(1).pdf)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - `mistral-7b-openorca.Q4_K_M.gguf` via GPT4All
 - `LangChain` (Agents + FAISS)
 - `Streamlit` for the frontend UI
@@ -38,7 +38,7 @@ Want to explore how GenAI augments BI?
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 bi_decision_support_agent/
 ├── data/                        # Uploaded CSVs
@@ -55,29 +55,29 @@ bi_decision_support_agent/
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
-### 1. 📂 Clone the Repository
+### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourname/bi_decision_support_agent
+git clone https://github.com/Pre123140/Business-Intelligence-and-Decision-Support-Agent
 cd bi_decision_support_agent
 ```
 
-### 2. ✨ Set Up Environment
+### 2. Set Up Environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 ```
 
-### 3. ⚖️ Install Dependencies
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. 🤖 Add Your LLM Model
+### 4. Add Your LLM Model
 Place `mistral-7b-openorca.Q4_K_M.gguf` in the `/models/` directory.
 
-### 5. 🚀 Run the App
+### 5. Run the App
 ```bash
 streamlit run src/ui.py
 ```
@@ -88,7 +88,7 @@ Then upload any `.csv` file and start chatting or exploring!
 
 ---
 
-## ✨ Project Highlights
+## Project Highlights
 - **No Fixed Schema**: Works with any CSV, auto-detects columns
 - **Business-Ready**: Summarizes sales, profits, trends, and more
 - **Chat + Visuals**: Both conversational and chart-based output
@@ -96,12 +96,12 @@ Then upload any `.csv` file and start chatting or exploring!
 
 ---
 
-## 📜 License
+## License
 
 This project is open for educational use only. For commercial deployment, contact the author.
 
 ---
 
-## 📬 Contact
+## Contact
 If you'd like to learn more or collaborate on projects or other initiatives, feel free to connect on [LinkedIn](https://www.linkedin.com/in/prerna-burande-99678a1bb/) or check out my [portfolio site](https://youtheleader.com/).
 
