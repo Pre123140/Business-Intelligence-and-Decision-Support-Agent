@@ -25,7 +25,7 @@ To create a dataset-agnostic GenAI agent that:
 
 ## 🧠 Conceptual Study
 Want to explore how GenAI augments BI?
-👉 [Read the Full Conceptual Study →](https://github.com/Pre123140/PHISHING_-_CYBER_RISK_SCORING_DETECTION)
+👉 [Read the Full Conceptual Study →](https://github.com/Pre123140/Business-Intelligence-and-Decision-Support-Agent/blob/main/BUSINESS%20INTELLIGENCE%20AND%20DECISION%20SUPPORT%20AGENT%20(1).pdf)
 
 ---
 
